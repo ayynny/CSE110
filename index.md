@@ -29,8 +29,6 @@ Currently feeling...
 
 
 ### woah
-Byeee :P
 
-###codeium
 
 
