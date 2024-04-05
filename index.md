@@ -1,6 +1,6 @@
 # Hello! :D
 **Welcome to *Anny's* User Page!!**
-> This is [me~~](https://github.com/ayynny/CSE110/assets/61796361/47fa3192-bed5-4927-8177-9843c77e6d12)
+> This is [me~~](me.png)
 
 ```
 I am a 3rd year computer science major at UCSD! Raised in the heart of tech - Silicon Valley, now in
