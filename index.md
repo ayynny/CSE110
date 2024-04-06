@@ -3,10 +3,11 @@
 > This is [me~~](me.png)
 
 ```
-I am a 3rd year computer science major at UCSD! Raised in the heart of tech - Silicon Valley, now in
-San Diego chasing my dreams of making big bucks as a software engineer! I have been
-coding since high school, and taking my skills further to work together with fellow SWE
-to make a positive impact on the world! Interested in computer vision and AI.
+print("Hello world!")
+// I am a 3rd year computer science major at UCSD! Raised in the heart of tech - Silicon Valley, now in
+// San Diego chasing my dreams of making big bucks as a software engineer! I have been
+// coding since high school, and taking my skills further to work together with fellow SWE
+// to make a positive impact on the world! Interested in computer vision and AI.
 ```
 [boo](#woah)
 
